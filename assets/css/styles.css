@@ -144,13 +144,20 @@ main {
   /* Box-model */
   width: 200px;
   margin: 0 20px 10px 0;
+
+  /* Making the avatar rounded */
+  border-radius: 100px;
 }
 /* END ABOUT-ME PAGE */
 
 
 /* PORTFOLIO PAGE */
 .port-image {
+  width: 350px;
+  height: 350px;
   margin: 20px auto;
+  border-style: groove;
+  border-color: black;
 }
 /* END PORTFOLIO PAGE */
 
