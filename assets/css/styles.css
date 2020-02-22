@@ -43,9 +43,6 @@ main {
   font-size: 24px;
   font-weight: bold;
   color: #fff;
-
-  /* Visual */
-  background: #4aaaa5;
 }
 
 /* override bootstrap hover color and border */
@@ -119,6 +116,11 @@ main {
   /* Visual */
   background-color: #4aaaa5;
 }
+.socials:hover {
+  color: coral;
+  text-decoration: none;
+}
+
 /* END FOOTER */
 /* --- END STYLES FOR ALL PAGES --- */
 
