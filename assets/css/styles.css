@@ -21,8 +21,7 @@ main {
 
 /* create styles for use for all white main boxes */
 .block {
-  background-color: #fff;
-
+  background-color: #333;
   padding: 30px;
   margin-bottom: 30px;
 }
